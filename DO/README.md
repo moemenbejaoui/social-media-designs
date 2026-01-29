@@ -123,10 +123,4 @@ Designed to:
 
 ---
 
-## 📌 Notes
-
-
-
----
-
 **Data Overflow** — Beyond Data , Beyond Limits
